@@ -80,6 +80,9 @@ h4{
 .justify-content-center{
     justify-content: center;
 }
+.justify-content-space-between{
+    justify-content: space-between;
+}
 .pb-5{
     padding-bottom: 3rem;
 }
@@ -297,6 +300,28 @@ h4{
 }
 .align-items-flex-start{
     align-items: flex-start;
+}
+.faq-item{
+    border-bottom: 1px solid #e7e8e9;
+    padding: 24px 0px;
+}
+.faq-icono{
+    background-color: white;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    border: 1px solid #0050c3;
+}
+.faq-pregunta{
+    font-weight: 600;
+    font-size: 24px;
+}
+.boton-flecha{
+    width: 44px;
+    height: 44px;
+    background-color: white;
+    border-radius: 50%;
+    border: 1px solid #0050c3;
 }
 #logo{
     fill: #fff;
